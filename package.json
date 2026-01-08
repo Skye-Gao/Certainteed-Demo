@@ -1,0 +1,21 @@
+{
+  "name": "certainteed-demo",
+  "version": "1.0.0",
+  "description": "NFC tag emulator that simulates keyboard input for Figma prototype navigation",
+  "main": "nfc-key-emulator.js",
+  "scripts": {
+    "start": "node nfc-key-emulator.js"
+  },
+  "keywords": [
+    "nfc",
+    "keyboard",
+    "automation",
+    "figma"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nfc-pcsc": "^0.8.1"
+  }
+}
+
